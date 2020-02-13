@@ -1,0 +1,4 @@
+luigi
+tabulate
+s3fs # convenience wrapper for boto3
+pyathena  # convenience wrapper for boto3
