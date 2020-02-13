@@ -1,0 +1,7 @@
+# Ignore everything in this directory
+*
+# Except this file
+!.gitignore
+!string_column_profiles
+!top100values
+!number_column_profiles
